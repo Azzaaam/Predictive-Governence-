@@ -1,16 +1,7 @@
-Here is a **complete professional README.md content** including description, table of contents, installation instructions, usage examples, and tech stack — ready to paste into GitHub:
-
----
-
 # 🏛️ AI-Powered Predictive Governance System
-
 An AI-driven **Governance-as-a-Service (GaaS)** web platform built using Flask and Groq’s LLaMA model that transforms traditional civic complaint systems into a smart, predictive governance ecosystem.
-
 This system enables citizens to submit infrastructure complaints while automatically validating, classifying, prioritizing, routing, and predicting risks using Artificial Intelligence.
-
 It shifts governance from **Reactive → Proactive → Predictive**.
-
----
 
 # 📑 Table of Contents
 
